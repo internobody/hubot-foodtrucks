@@ -1,0 +1,20 @@
+{
+  "name": "hubot-foodtrucks",
+  "version": "0.0.1",
+  "author": "Roland Cooper <roland@internobody.com>",
+  "description": "A Hubot plugin for reading the Chicago Food Trucks Finder API.",
+  "keywords": [
+    "hubot",
+    "script",
+    "food",
+    "trucks",
+    "chicago"
+  ],
+  "licenses": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asveepay/hubot-foodtrucks.git"
+  },
+  "main": "index.coffee",
+  "dependencies": {}
+}
